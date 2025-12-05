@@ -4138,6 +4138,7 @@ listOfInputs.forEach((item) => {
         console.log(`zeroCounter has increased to: ${zeroCounter}`);
       }
     }
+    
   } else {
     for (let steps = numberofTurns; steps > 0; steps--) {
       currentNumber -= 1;
